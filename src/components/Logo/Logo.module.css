@@ -1,0 +1,31 @@
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    padding: 5px 15px 5px 15px;
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+.logoPartOne {
+    color: #3498db;
+}
+
+.logoPartTwo {
+    color: #2ecc71;
+}
+
+.logoPartThree {
+    color: #e74c3c;
+}
+
+.dog {
+    height: 25px;
+    width: 25px;
+}
